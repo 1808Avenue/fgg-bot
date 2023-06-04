@@ -232,27 +232,3 @@ const questions = {
 };
 
 export default questions;
-
-// question5: {
-//   sceneId: 'test1-question5',
-//   question: '',
-//   correctOption: '',
-//   options: {
-//     a: {
-//       option: 'A) ',
-//       id: 'btn_test1_question5_a',
-//     },
-//     b: {
-//       option: 'B) ',
-//       id: 'btn_test1_question5_b',
-//     },
-//     c: {
-//       option: 'C) ',
-//       id: 'btn_test1_question5_c',
-//     },
-//     d: {
-//       option: 'D) ',
-//       id: 'btn_test1_question5_d',
-//     },
-//   },
-// },
