@@ -24,7 +24,7 @@ const questions = {
   },
   question2: {
     sceneId: 'test1-question2',
-    question: 'Фирменные блюда нашего ресторана это:',
+    question: 'Фирменные блюда нашего ресторана это?',
     correctOption: 'd',
     options: {
       a: {
@@ -70,7 +70,7 @@ const questions = {
   },
   question4: {
     sceneId: 'test1-question4',
-    question: 'Состав хачапури по аджарски:',
+    question: 'Состав хачапури по аджарски?',
     correctOption: 'b',
     options: {
       a: {
@@ -116,7 +116,7 @@ const questions = {
   },
   question6: {
     sceneId: 'test1-question6',
-    question: 'Как мы развиваемся? Выберите лишнее выражение:',
+    question: 'Как мы развиваемся? Выберите лишнее выражение',
     correctOption: 'd',
     options: {
       a: {
@@ -139,7 +139,7 @@ const questions = {
   },
   question7: {
     sceneId: 'test1-question7',
-    question: 'Кто из перечисленных звезд еще не выступал у нас?',
+    question: 'Кто из перечисленных звезд, еще не выступал у нас?',
     correctOption: 'c',
     options: {
       a: {
@@ -208,7 +208,7 @@ const questions = {
   },
   question10: {
     sceneId: 'test1-question10',
-    question: 'Основным направлением кухни ресторана Южанин можно считать:',
+    question: 'Основным направлением кухни ресторана Южанин можно считать?',
     correctOption: 'd',
     options: {
       a: {
