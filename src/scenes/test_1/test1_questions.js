@@ -93,11 +93,11 @@ const questions = {
   },
   question5: {
     sceneId: 'test1-question5',
-    question: 'Какое выражение описывающее «интересные факты» о ресторане, не верное:',
+    question: 'Какое выражение описывающее «интересные факты» о ресторане, не верное?',
     correctOption: 'd',
     options: {
       a: {
-        option: 'A) У нас ежедневно трудится 60 чел',
+        option: 'A) У нас ежедневно трудится 60 чел.',
         id: 'btn_test1_question5_a',
       },
       b: {
@@ -105,7 +105,7 @@ const questions = {
         id: 'btn_test1_question5_b',
       },
       c: {
-        option: 'C) Ресторан вмещает более 500 чел',
+        option: 'C) Ресторан вмещает более 500 чел.',
         id: 'btn_test1_question5_c',
       },
       d: {

@@ -1,7 +1,7 @@
 const questions = {
   question1: {
     sceneId: 'test2-question1',
-    question: 'Выберите WOW - фишку нашего ресторана:',
+    question: 'WOW - фишка нашего ресторана?',
     correctOption: 'a',
     options: {
       a: {
@@ -55,7 +55,7 @@ const questions = {
         id: 'btn_test2_question3_a',
       },
       b: {
-        option: 'B) Не может сидеть меньше 4-х человек',
+        option: 'B) Не может сидеть меньше 4-х чел.',
         id: 'btn_test2_question3_b',
       },
       c: {
@@ -224,7 +224,7 @@ const questions = {
         id: 'btn_test2_question10_c',
       },
       d: {
-        option: 'D) Которые имеют яркий вкус или аромат',
+        option: 'D) У которых яркий вкус или аромат',
         id: 'btn_test2_question10_d',
       },
     },
