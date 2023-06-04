@@ -82,7 +82,7 @@ const questions = {
         id: 'btn_test2_question4_b',
       },
       c: {
-        option: 'C) Важно для корректного среднего чека',
+        option: 'C) Важно для среднего чека',
         id: 'btn_test2_question4_c',
       },
       d: {
@@ -93,11 +93,11 @@ const questions = {
   },
   question5: {
     sceneId: 'test2-question5',
-    question: 'Во сколько можно начать собирать сервировку в зале после закрытия?',
+    question: 'Когда нужно начать собирать сервировку в закрытие?',
     correctOption: 'a',
     options: {
       a: {
-        option: 'A) За 15 минут до закрытия на всех зонах',
+        option: 'A) За 15 минут до закрытия, все зоны',
         id: 'btn_test2_question5_a',
       },
       b: {
@@ -120,30 +120,30 @@ const questions = {
     correctOption: 'c',
     options: {
       a: {
-        option: 'A) Потому что это стандарты сети',
+        option: 'A) Это стандарты сети',
         id: 'btn_test2_question6_a',
       },
       b: {
-        option: 'B) Потому что так задумал дизайнер',
+        option: 'B) Так задумал дизайнер',
         id: 'btn_test2_question6_b',
       },
       c: {
-        option: 'C) Потому что есть визуальный порядок',
+        option: 'C) Визуальный порядок',
         id: 'btn_test2_question6_c',
       },
       d: {
-        option: 'D) Потому что так удобнее ходить по залу',
+        option: 'D) Так удобнее ходить по залу',
         id: 'btn_test2_question6_d',
       },
     },
   },
   question7: {
     sceneId: 'test2-question7',
-    question: 'Есть ли у менеджера зала функция управлять светом и какую возможность она дает?',
+    question: 'Доступна ли менеджеру функция управлять светом в зале?',
     correctOption: 'a',
     options: {
       a: {
-        option: 'A) Да, все лампы и споты',
+        option: 'A) Да, всеми лампами и спотами',
         id: 'btn_test2_question7_a',
       },
       b: {
@@ -151,7 +151,7 @@ const questions = {
         id: 'btn_test2_question7_b',
       },
       c: {
-        option: 'C) Да, режимы от времени дня',
+        option: 'C) Да, менять режимы',
         id: 'btn_test2_question7_c',
       },
       d: {
@@ -162,23 +162,23 @@ const questions = {
   },
   question8: {
     sceneId: 'test2-question8',
-    question: 'За сколько подходов возможно убрать грязный стола на 8 человек?',
+    question: 'За сколько подходов возможно убрать грязный стол на 8 человек?',
     correctOption: 'a',
     options: {
       a: {
-        option: 'A) За 4 подхода + периодическая уборка',
+        option: 'A) 4 подхода + периодическая уборка',
         id: 'btn_test2_question8_a',
       },
       b: {
-        option: 'B) За 5 подходов используя разнос',
+        option: 'B) 5 подходов используя разнос',
         id: 'btn_test2_question8_b',
       },
       c: {
-        option: 'C) За 6 подходов без разноса',
+        option: 'C) 6 подходов без разноса',
         id: 'btn_test2_question8_c',
       },
       d: {
-        option: 'D) За 1 подход при помощи коллег',
+        option: 'D) 1 подход при помощи коллег',
         id: 'btn_test2_question8_d',
       },
     },
@@ -224,7 +224,7 @@ const questions = {
         id: 'btn_test2_question10_c',
       },
       d: {
-        option: 'D) О тех, которые имеют яркий вкус или аромат',
+        option: 'D) Которые имеют яркий вкус или аромат',
         id: 'btn_test2_question10_d',
       },
     },

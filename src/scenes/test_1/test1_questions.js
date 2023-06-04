@@ -189,7 +189,7 @@ const questions = {
     correctOption: 'a',
     options: {
       a: {
-        option: 'A) Завод по производству полуфабрикатов для точек общественного питания',
+        option: 'A) Завод по производству полуфабрикатов',
         id: 'btn_test1_question9_a',
       },
       b: {
